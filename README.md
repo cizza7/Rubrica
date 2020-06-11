@@ -11,3 +11,5 @@ MyTableModel e MyDialog estendono delle classi di Java Swing che permetto di cre
 personalizzato per gestire la tabella della rubrica
 
 Dati File permette di leggere e scrivere i dati su un file 
+
+WIP collegamento al database.
